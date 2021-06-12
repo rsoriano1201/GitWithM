@@ -11,14 +11,5 @@ public class Main {
     test cases for the color of the car
     test case for immediate requirement
         is being written down
-
-
-
-        
-
-    }
-}
-
-}
-
-}
+        test case to test the model of the car
+        test case to test the doors of the car
